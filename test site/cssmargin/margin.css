@@ -1,0 +1,44 @@
+@charset "utf-8";
+/* CSS Document */
+#bgmain
+{
+  width:1000px;
+  height:1000px;
+  background:#c0fefc;
+	margin: auto;
+}
+	
+.a
+  {
+	width:500px;
+	height:500px;
+	background:#91c788;
+	 margin-top:250px;
+	margin-left:250px;
+	 
+}
+.b
+{
+  width:250px;
+  height:250px;
+  background:#33BF47;
+  margin-top:100px;
+  margin-left: 130px;	
+	
+}
+.c
+{
+ width:125px;
+ height:125px;
+ background:#26A81E;
+ margin-top:50px;
+ margin-left:65px; 	
+		
+}
+.d{
+	width:64.5px;
+	height:64.5px;
+	background: #67F902;
+	margin-top:15px;
+	margin-left:30px; 
+}

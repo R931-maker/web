@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+#main{
+	width:100%;
+}
+.a{
+	width:20px;
+	height:30px;
+	background: #EA5A5C;
+}

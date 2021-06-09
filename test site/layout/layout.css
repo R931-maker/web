@@ -1,0 +1,295 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+#main{
+	
+	width:1000px;
+	height:1020px;
+	background:linear-gradient(#d0da98 ,#dfe6b8 ); 
+	margin:auto;
+	
+}
+
+.a{
+	
+	width:1000px;
+	height:200px;
+	background: linear-gradient(#906f5e,#6b4d3d 60%,#906f5e);
+	
+}
+.txt1{
+	font-size: 70px;
+    margin-left:20px;
+	margin-top:40px;
+	text-shadow:0 0 20px grey;
+	float: left;
+}
+.a1{
+	width:250px;
+	height:130px;
+	margin-top:40px;
+	float: left;
+	
+	
+	
+}
+
+.txt2{
+	
+	font-size:40px;
+	color: aliceblue;
+    text-shadow:3px 2px 5px black;
+   	margin-top:10px;
+	 
+}
+.txt3{
+	font-size:15px;
+	color: aliceblue;
+	text-shadow:3px 2px 3px black;
+	margin-top: 5px;	
+}
+
+.a2{
+	width:400px;
+	height:60px;
+	background:#F8F6F6;
+	float: right;
+	margin-top: 60px;
+	margin-right: 45px;
+	border: 5px solid  #3260DD;
+	box-shadow:0px 0px 20px #686868 ;
+}
+.txt4{
+	font-family:arial; 
+	margin:20px 0 0 130px;
+	color: #272626;
+}
+.txt5{
+	float:right;
+	font-size:7px;
+	line-height:10px;
+	margin:0 5px 0px 0;
+	color: #918C8C;
+	
+}
+.b{
+	width:900px;
+	height:50px;
+	background:linear-gradient(#b9d24e 20%,#96a82f 80%);
+	margin-left: 50px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px; 
+}
+.b1{
+	width:407px;
+	height:50px;
+	margin-left: 10px;
+	background:#6B6868;
+}
+.b11{
+	width:100px;
+	height:50px;
+	background: linear-gradient(#906f5e 20%,#6b4d3d 80%);
+	float: left;
+	
+}
+
+.txt6{
+	
+	color: aliceblue;
+	font-family: arial;
+	font-size: 20px;
+	margin-left: 20px;
+	line-height: 49px;
+	text-shadow: 1px 2px 5px black;
+	float: left;
+}
+.b12{
+	width:100px;
+	height:50px;
+	background: linear-gradient(#b9d24e 20%,#96a82f 80%);
+	margin-left:2px; 
+	float: left;
+}
+.txt7{
+	
+	color: aliceblue;
+	font-family: arial;
+	font-size: 15px;
+	margin-left: 20px;
+	line-height: 49px;
+	text-shadow: 1px 2px 5px black;
+}
+.b13{
+	width:100px;
+	height:50px;
+	background: linear-gradient(#b9d24e 20%,#96a82f 80%);
+	margin-left:2px; 
+	float: left;
+}
+.txt8{
+	
+	color: aliceblue;
+	font-family: arial;
+	font-size: 15px;
+	margin-left: 20px;
+	line-height: 49px;
+	text-shadow: 1px 2px 5px black;
+}
+.b14{
+	width:100px;
+	height:50px;
+	background: linear-gradient(#b9d24e 20%,#96a82f 80%);
+	float: left;
+	margin-left:2px; 
+}
+.txt9{
+	
+	color: aliceblue;
+	font-family: arial;
+	font-size: 15px;
+	margin-left: 20px;
+	line-height: 49px;
+	text-shadow: 1px 2px 5px black;
+}
+.b2{
+	
+	width:200px;
+	height:30px;
+	background:#DBD5D5;
+	float:right;
+	margin-right: 10px;
+	margin-top:10px ;
+	box-shadow:0 0 5px; 
+	
+}
+.txt10{
+	margin-left: 170px;
+	line-height: 30px;
+	
+}
+.c{
+	width:600px;
+	height:720px;
+	background: linear-gradient(#d0da98 20%,#dfe6b8 30%,#f6f8e9 50%);
+	margin-left: 50px;
+	margin-top: 30px;
+	float: left;
+	box-shadow: 0 0 5px grey;
+}
+.img img{
+	margin-left: 25px;
+	border: 3px solid #d2dca8;
+	margin-top: 10px
+	
+}
+.c2{
+	width:600px;
+	height:50px;
+	margin-left:35px;
+	margin-top: 20px;
+}
+.c3{
+	width:600px;
+	height:150px
+}
+.txt11{
+	font-size:30px;
+	font-family: arial;
+	margin-left: 35px;
+	margin-top: 10px;
+	color: #181717;
+}
+.txt12{
+	align:justify;
+	font-size:15px;
+	margin-left:35px;
+	margin-right: 25px;
+}
+.c4{
+	width:600px;
+	height:100px;
+}
+.c4 img{
+	margin-top:10px;
+	margin-left: 35px;
+	border: 2px solid #A9B8A8; 
+}
+.txt13{
+	margin-top: 10px;
+	margin-right:15px;
+	margin-left:25px; 
+}
+.d{
+	width:280px;
+	height:720px;
+	background:linear-gradient(#d0da98 20%,#dfe6b8 30%,#f6f8e9 50%); 
+	float: right;
+	margin-top: 30px;
+	margin-right: 50px;
+	box-shadow: 0 0 5px grey;
+}
+.d1{
+   width:280px;
+   height:40px;
+   background:#ED9739;	
+	
+}
+.txt14{
+	font-size:24px;
+	font-family:"arial";
+	margin-left:70px;
+	line-height: 40px;
+	color: aliceblue;
+	text-shadow:0 0 5px #5e5956; 
+}
+.d2 img{
+	margin-top: 30px;
+	margin-left: 60px;
+}
+.d3{
+   width:280px;
+   height:40px;
+   background:#ED9739;
+	margin-top: 20px;
+	
+}
+.txt15{
+	font-size:24px;
+	font-family:"arial";
+	margin-left:90px;
+	line-height: 40px;
+	color: aliceblue;
+	text-shadow:0 0 5px #5e5956; 
+}
+.txt16{
+	font-size: 18px;
+	margin-left: 90px;
+	margin-top: 5px;
+}
+.d4{
+   width:280px;
+   height:40px;
+   background:#ED9739;
+	margin-top: 20px;
+	
+}
+.txt17{
+	font-size:24px;
+	font-family:"arial";
+	margin-left:70px;
+	line-height: 40px;
+	color: aliceblue;
+	text-shadow:0 0 5px #5e5956; 
+}
+.txt18{
+	font-size: 18px;
+	margin-left: 90px;
+	line-height: 40px;
+	margin-top: 5px;
+	
+}

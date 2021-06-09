@@ -1,0 +1,105 @@
+@charset "utf-8";
+/* CSS Document */
+#main{
+	
+	width:800px;
+	height:800px;
+	background:#28527a;
+	margin:auto;
+	
+}
+
+.a{
+	width:800px;
+	height:100px;
+	background:#ffab73;
+	float:left;
+    margin-left: 
+}
+.b{
+	width:350px;
+	height:600px;
+	background:#c2b092;
+	float:left;
+}
+.c{
+	width:350px;
+	height:600px;
+	background:#6b011f;
+	float:right;
+}
+.d{
+	width:800px;
+	height:100px;
+	background:#99bbad;
+	float:left;
+}
+.a1{
+	width:150px;
+	height:80px;
+	background:#91ED10;
+	margin-top:10px;
+	margin-left:20px;
+	margin-bottom: 10px;
+}
+.a2{
+	width:100px;
+	height:50px;
+	background:#E56A6C;
+	margin-left:25px;
+	margin-bottom:5px;
+	
+}
+.c1{
+	
+	width:300px;
+	height:500px;
+	background:#ECC337;
+	margin-left:25px;
+	margin-top:50px;
+}
+.c11{
+	width:250px;
+	height:200px;
+	margin-bottom:50px;
+	margin-left:25px;
+	margin-right:10px; 
+	background: #9D7373;
+	
+	
+}
+.c12{
+	width:250px;
+	height:200px;
+	margin-top:50px;
+	margin-left:25px;
+	margin-right:10px; 
+	background: #9D7373;
+}
+.b1{
+	
+	width:300px;
+	height:500px;
+	background: #74D778;
+	margin-left:25px;
+	margin-top:50px;
+	
+}
+.b11{
+	width:250px;
+	height:200px;
+	margin-bottom:50px;
+	margin-left:25px;
+	margin-right:10px; 
+	background: #4443F3;
+	
+	
+}
+.b12{
+	width:250px;
+	height:200px;
+	margin-top:50px;
+	margin-left:25px;
+	margin-right:10px; 
+	background: #4443F3;
+}

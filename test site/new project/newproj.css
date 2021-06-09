@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+	
+}
+#main{
+	width:100%;
+	height:100vh;
+	background: url("img/summer_16_4k_8k_hd_reflection-7680x4320 (1).jpg") no-repeat;
+}
+.ab{
+    width:35%;
+	height:30%;
+	margin-left:35%;
+	margin-top:10%; 
+	float: left;
+	background:#3D8004;
+	opacity:0.7;
+	font-size: 20px;
+	color:azure;
+	line-height: 25px;
+}
+.fld1{
+	width:55%;
+	height:20px;
+	border: double;
+	padding:10px;
+	font-size:1.2em;
+	border-radius: 5px;
+	margin-left: 10px;
+	
+}
+.fld2{
+	width:55%;
+	height:20px;
+	border: double;
+	padding:10px;
+	font-size:1.2em;
+	border-radius: 5px;
+	margin-left: 10px;
+}
+
+.fld3{
+	width:55%;
+	height:20px;
+	border: double;
+	padding:10px;
+	font-size:1.2em;
+	border-radius: 5px;
+	margin-left: 10px;
+}
+.cc{
+	margin-left:12px; 
+}
+.xy button{
+	width:100px;
+	height:40px;
+	background:red;
+	text-align:center;
+	border-radius:5px;
+	box-shadow:0 0 3px black;
+	font-size:18px;
+	color:black;
+	margin-left:90px; 
+	margin-top: 10px
+}
+.bb a{
+	padding:30px;
+	background:#292929;
+	text-decoration: none;
+	font-size: 20px;
+	font-family: "arial";
+	color:beige;
+	float: left;
+	opacity: .7;
+    border-radius:5px;
+	margin-top:20px;
+	margin-left: 40px;
+}

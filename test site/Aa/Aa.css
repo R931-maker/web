@@ -1,0 +1,178 @@
+@charset "utf-8";
+/* CSS Document */
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+#main{
+	width:100%;
+}
+.container{
+	width:100%;
+}
+.container{
+	width:100%;
+	height:100vh;
+	background: url("aa.png") no-repeat;
+	background-size: 100% 100%;
+	float: left;
+	
+}
+.a{
+	width:100%;
+	height:50px;
+	background: #0E1A1F;
+	float: left;
+}
+.txt1{
+	font-size:2.3rem; 
+	color: antiquewhite;
+	margin:5px 0 0 40rem;
+}
+.a span{
+	color: aqua;
+}
+.b{
+	width:30%;
+	height:65vh;
+	background: #F5F2F2;
+	box-shadow:1px 1px 20px 5px grey; 
+	margin:10rem 0 0 32rem;
+	border-radius: 5px;
+}
+.b1{
+	width:100%;
+	float:left;
+	height: 70px;
+	
+}
+.txt2{
+	font-size:30px; 
+	font-family: arial;
+	margin:5% 0 0 14%;
+	color:#8F8A8A;
+}
+.b1 span{
+	color:#539CD2;
+}
+.b2{
+	width:100%;
+	height:50px;
+	float: left;
+	
+}
+.txt3{
+	font-size:14px; 
+	font-family:"arial";
+	text-transform: uppercase; 
+	margin:20px 0 0 110px;
+	color:#539CD2;
+	font-weight: bold;
+}
+.b3{
+	width:100%;
+	height:15vh;
+	display: inline-block;
+	margin-top:5vh; 
+	float: left;
+}
+.b label{
+	font-size:17px;
+	font-weight:bold;
+	margin:20px 10px 0 30px;
+	line-height:40px; 
+	font-family:arial; 
+	color: #7D7A7A;
+}
+.b3 input{
+	width:60%;
+	line-height: 40px;
+	border:none;
+	margin-left: 10px;
+	border-bottom: 2px solid #746D6D;
+	font-size:20px;
+	background: #F5F2F2;
+	
+}
+.b3 input:focus{
+	
+ outline:none;
+}
+.btn1{
+	width:100%;
+	height:30px;
+	margin-top:20px; 
+	float: left;
+	
+}
+.btn1 button{
+	width:190px;
+	height:35px;
+	margin-left:9rem;
+	margin-top: 25px;
+	display:block;
+	background: linear-gradient(45deg,blue,skyblue);
+	border-radius:5px;
+	border:none;
+	color:aliceblue;
+	text-decoration:none;
+	text-align:center;
+	font-size:15px;
+	font-weight: bold;
+}
+.b4{
+	width:100%;
+	height:70px;
+	float:left;
+	margin-top:8vh;
+	
+
+}
+.b4 input{
+	margin-left:30px; 
+	margin-top: 15px;
+	float:left; 
+	 
+}
+.txt4{
+	font-size:15px;
+	font-weight:bold;
+	line-height:40px; 
+	font-family:arial; 
+	color: #7D7A7A;
+	margin:2px 0 0 10px;
+	float:left
+}
+.btn2 button{
+	width:180px;
+	height:30px;
+	display:block;
+	background:none;
+	border:none;
+	color:aqua;
+	text-decoration:none;
+	text-align:center;
+	font-size:15px;
+	font-weight: bold;
+	border-bottom: 1px solid aqua;
+	float: right;
+	margin-right:20px; 
+}
+.btn3 button{
+	width:100px;
+	height:35px;
+	margin-left:18rem;
+	margin-top: 25px;
+	display:block;
+	background: linear-gradient(45deg,black,#2E2C2C );
+	border-radius:5px;
+	border:none;
+	color:aliceblue;
+	text-decoration:none;
+	text-align:center;
+	font-size:15px;
+	font-weight: bold;
+	
+}

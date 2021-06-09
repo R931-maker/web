@@ -1,0 +1,96 @@
+@charset "utf-8";
+/* CSS Document */
+#Base{
+	
+	width:1000px;
+	height:1000px;
+	background:#FFFFFF;
+    margin:auto;
+	
+}
+.a{
+   width:950px;
+   height:200px;
+   margin:10px 25px;	
+   background:#9C9B9B;
+	
+	
+}
+.txt1{
+	color: aliceblue;
+	font-size: 50px;
+	line-height:180px;
+	margin-left: 380px;	
+}
+.b{
+   width:950px;
+   height:80px;
+   margin:10px 25px;	
+   background:#9C9B9B;
+	
+}
+.txt2{
+	color: aliceblue;
+	font-size: 35px;
+	line-height: 80px;
+	margin-left: 380px;
+} 
+.c{
+	 width:180px;
+   height:300px;
+   margin-left:25px;
+   margin-right:10px; 	
+   background:#9C9B9B;
+   float: left;	
+	
+}
+.txt3{
+	color: aliceblue;
+	font-size: 35px;
+	margin-left:30px;
+	line-height:250px;
+	
+}
+.d{
+	 width:570px;
+   height:300px;
+   margin:0px 0px;	
+   background:#9C9B9B;
+   float: left;	
+	
+}
+.txt4{
+	color: aliceblue;
+	font-size: 40px;
+	margin-left:180px;
+	line-height:250px;
+	
+}
+.e{
+	 width:180px;
+   height:300px;
+   margin:0px 10px;	
+   background:#9C9B9B;
+   float: left;	
+}
+.txt5{
+	color: aliceblue;
+	font-size: 35px;
+	margin-left:30px;
+	line-height:250px;	
+} 
+.f{
+	width:950px;
+	height:80px;
+	background:#9C9B9B;
+	margin-top: 320px;
+	margin-left:25px; 
+}
+
+.txt6{
+	color: aliceblue;
+	font-size: 35px;
+	line-height: 80px;
+	margin-left: 380px;
+	
+}
